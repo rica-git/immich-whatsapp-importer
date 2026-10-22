@@ -2,3 +2,6 @@
 /.gradle/
 /app/build/
 local.properties
+.idea/
+.DS_Store
+*.zip
